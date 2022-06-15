@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f2f5;
+    width: 100 vw;
+    height: 100 vh;
+
+    display: flex;
+    padding: 72px 0px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.container-left {
+    width: 30vh;
+    height: 40vh;
+}
+
+.container-right {
+    width: 30vh;
+    height: 40vh;
+}
+
+h3{font-size: 28px;
+    color: #1c1e21;
+
+}
